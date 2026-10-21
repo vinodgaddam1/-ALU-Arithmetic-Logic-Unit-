@@ -1,6 +1,6 @@
 # ALU-Arithmetic-Logic-Unit-
 
-# 🧮 ALU (Arithmetic Logic Unit) — Project Overview (README)
+# 🧮 ALU (Arithmetic Logic Unit) — Project Overview 
 
 ## 📌 1. Project Title
 ✅ **Parameterized N-bit ALU with Arithmetic, Logic, Shift, Compare Operations + Status Flags**
